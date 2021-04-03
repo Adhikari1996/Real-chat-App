@@ -1,4 +1,4 @@
-# Real Chat Application 
+# Real Chat Application Using React 
 
 In this application you can chat with others.In order to do chat you need to added to dashboard by admin.
 
